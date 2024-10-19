@@ -1,13 +1,4 @@
-
 # Brick Breaker Game in Python
-
-## Installation
-1. Install Python and add it to your system's environment variables.
-2. Use pip to install the required modules:
-   ```bash
-   pip install pygame
-   ```
-
 ## Game Rules
 - The game consists of a paddle, a ball, and multiple layers of bricks.
 - The player controls the paddle using the left (`←`) and right (`→`) arrow keys.
