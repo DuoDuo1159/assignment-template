@@ -32,12 +32,3 @@ To start the game, run the following command in the command prompt:
 python Game18.py
 ```
 
-## Additional Resources
-For the complete source code and further details, please refer to the related files.
-
-## Acknowledgments
-- Audio and image assets sourced from the internet. Apologies for any copyright issues.
-
-## Contact
-For more information, follow the WeChat account "Charles的皮卡丘" and reply with 'game18' to access related files.
-
